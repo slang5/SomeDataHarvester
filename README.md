@@ -1,4 +1,4 @@
-# SomeDataHarvester
+# SomeDataHarvesting
 "SomeDataHarvesting" est un outil d'automatisation développé pour extraire des informations spécifiques telles que les adresses e-mail et les détails de formation à partir des noms et prénoms d'étudiants à partir de l'annuaire universitaire.
 # Important 
 Pour assurer la conformité avec la législation, il est indispensable de solliciter et obtenir le consentement explicite de chaque individu listé avant de procéder à la collecte des données ciblées.
