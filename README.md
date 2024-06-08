@@ -17,6 +17,7 @@ C'est le coeur de l'outil
 on a un TXT.csv avec [[Nom1,Prenom1],[Nom2,Prenom2]] : Matrice = pd.read_csv('path/TXT.csv')
 id, pw = MonIdentifiantSecret, MonMotDePasseSecret
 URLbase = 'https://annuaire.uneuniversiteaupif.fr/ent/'
+
 (par exemple pour l'Université Paris 2 Panthéon Assas) UrlLoginPage = 'https://cas.u-paris2.fr/cas/login?service=https://ent.u-paris2.fr/uPortal/Login%3FrefUrl%3D%2FuPortal%2Ff%2Fwelcome%2Fnormal%2Frender.uP'
 ## Puis executer la fonction suivante:
 Collection(Matrice,id,pw,URLbase,UrlLoginPage)
